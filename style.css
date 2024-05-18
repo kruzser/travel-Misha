@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 3px black dotted;
+    color: aqua;
+    border-radius: 20px;
+}
+
+img{
+    position: absolute;
+    width: 50px;
+    top: 20px;
+}
+
+
+.cent {
+    display: flex;
+    justify-content: center;
+}
+
+.c{
+      display: flex;
+    justify-content: center; 
+}
+
+.center{
+       display: flex;
+    justify-content: center;
+}
